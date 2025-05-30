@@ -55,6 +55,6 @@ Make sure you have:
 ### Setup
 
 ```bash
-git clone https://github.com/rishibalajirajah/react-native-movie-app.git
-cd react-native-movie-app
+git clone https://github.com/rishibalajirajah/movie-app.git
+cd movie-app
 npm install
